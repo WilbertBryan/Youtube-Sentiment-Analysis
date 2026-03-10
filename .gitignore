@@ -1,0 +1,10 @@
+venv/
+.venv/
+bert_youtube_sentiment_10Epoch/
+.bert_youtube_sentiment_10Epoch/
+Sentimen_Analysis_BERT_third.ipynb
+Sentimen_Analysis_BERT.ipynb
+.results/
+results/
+.bert_youtube_sentiment_Accuracy84/
+bert_youtube_sentiment_Accuracy84/
