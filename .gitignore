@@ -8,3 +8,4 @@ Sentimen_Analysis_BERT.ipynb
 results/
 .bert_youtube_sentiment_Accuracy84/
 bert_youtube_sentiment_Accuracy84/
+reviews_with_ad.csv
